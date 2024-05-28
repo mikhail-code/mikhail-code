@@ -3,23 +3,23 @@ Michael Shalom - Software Engineer (frontend/backend).
 Personal Summary
 
 ## Frontend stack:
-●	React, Node/Express.js
-● Redux, Tailwind
-● Experience in creating full backend+frontend apps from scratch (examples of projects below).
+- React, Node/Express.js
+- Redux, Tailwind
+- Experience in creating full backend+frontend apps from scratch (examples of projects below).
 
 ## Backend stack:
-● JS: Node/Express.js
-● Python: Developed RESTful APIs using Django; Created web services fro parsing data drom different CDN providers;
-● Java: Intermediate; Developed web applications using Java and Spring Framework;
+- JS: Node/Express.js
+- Python: Developed RESTful APIs using Django; Created web services fro parsing data drom different CDN providers;
+- Java: Intermediate; Developed web applications using Java and Spring Framework;
 
 Other:
-●	Confident user of JIRA, Git, GitLab;
-●	Experience with  C#, MongoDB, Postgres;
-●	Good knowledge in business processes modeling, BPMN, REST protocol.
+- Confident user of JIRA, Git, GitLab;
+- Experience with  C#, MongoDB, Postgres;
+- Good knowledge in business processes modeling, BPMN, REST protocol.
 
 Language skills: 
-●	English: Professional working proficiency
-●	Russian: Native
+- English: Professional working proficiency
+- Russian: Native
 
 ## My projects 🚀:
 
