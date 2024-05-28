@@ -26,7 +26,7 @@ Language skills:
 - React
 - Django
 
-http://mkcode.pythonanywhere.com/#/
+App link: http://mkcode.pythonanywhere.com/#/
 
 Github link: https://github.com/mikhail-code/lexis-full
 
