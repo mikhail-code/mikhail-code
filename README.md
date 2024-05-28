@@ -27,6 +27,7 @@ Language skills:
 - Django
 
 http://mkcode.pythonanywhere.com/#/
+
 Github link: https://github.com/mikhail-code/lexis-full
 
 **Weather App**
@@ -34,6 +35,7 @@ Github link: https://github.com/mikhail-code/lexis-full
 - Express.js, Accuweather API
 
 (App link soon)
+
 Github link: https://github.com/mikhail-code/ITWorksWeatherApp
 
 **Lexis**
@@ -41,4 +43,5 @@ Github link: https://github.com/mikhail-code/ITWorksWeatherApp
 - Express.js, Google Translate API, Postgres
 
 (App link soon)
+
 Github links: https://github.com/mikhail-code/ITWorksWeatherApp, https://github.com/mikhail-code/Lexis_Node
