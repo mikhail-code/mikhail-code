@@ -28,7 +28,7 @@ Language skills:
 
 App link: http://mkcode.pythonanywhere.com/#/
 
-Github link: https://github.com/mikhail-code/lexis-full
+Github link: https://github.com/mikhail-code/Notes_App
 
 **Weather App**
 - React, Tailwind
