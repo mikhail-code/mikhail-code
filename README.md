@@ -22,7 +22,7 @@ Language skills:
 
 ## My projects 🚀:
 
-**Notepad App** (best starting project 😅)
+**Notes App** (best starting project 😅)
 - React
 - Django
 
