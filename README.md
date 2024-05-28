@@ -1,6 +1,5 @@
 ## Welcome! 👋
-Michael Shalom - Software Engineer (frontend/backend).
-Personal Summary
+Michael Shalom (30 y.o.) - Software Engineer (frontend/backend).
 
 ## Frontend stack:
 - React, Node/Express.js
@@ -26,7 +25,9 @@ Language skills:
 **Notepad App** (best starting project 😅)
 - React
 - Django
+
 http://mkcode.pythonanywhere.com/#/
+Github link: https://github.com/mikhail-code/lexis-full
 
 **Weather App**
 - React, Tailwind
