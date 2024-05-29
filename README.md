@@ -44,4 +44,4 @@ Github link: https://github.com/mikhail-code/ITWorksWeatherApp
 
 (App link soon)
 
-Github links: https://github.com/mikhail-code/ITWorksWeatherApp, https://github.com/mikhail-code/Lexis_Node
+Github links: https://github.com/mikhail-code/Lexis_React, https://github.com/mikhail-code/Lexis_Node
